@@ -1,0 +1,2 @@
+Looking in indexes: https://pypi.tuna.tsinghua.edu.cn/simple, https://download.pytorch.org/whl/cu117
+Requirement already satisfied: protobuf in /home/chenhui/.conda/envs/search/lib/python3.9/site-packages (6.31.1)

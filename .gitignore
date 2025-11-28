@@ -1,0 +1,4 @@
+# 大文件
+TruFor_train_test/pretrained_models/
+else/accuracy.json
+else/DGM4_test.json
